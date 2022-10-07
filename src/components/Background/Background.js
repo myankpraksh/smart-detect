@@ -58,7 +58,7 @@ export default function Background() {
               },
               links: {
                 color: "#ffffff",
-                distance: 150,
+                distance: 100,
                 enable: true,
                 opacity: 0.5,
                 width: 1,
